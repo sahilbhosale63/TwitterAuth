@@ -1,0 +1,6 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">TwitterAuth</string>
+    <string name="twitter_consumer_key" translatable="false"> Your Api Key here </string>
+    <string name="twitter_consumer_secret" translatable="false"> Your Api Secret here </string>
+
+</resources>
